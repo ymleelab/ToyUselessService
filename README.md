@@ -1,3 +1,13 @@
- <h1>2022-04-27 이영민</h1>
- <h2>엘리스 실습 2반 우당탕탕 개발 대회</h2>
- <h3>USEFUL SERVICE ? No 무한 스크롤 구현</h3>
+<h1>Toy Useless Service</h1>
+<h3>USEFUL SERVICE ? 'No' 무한 스크롤</h3>
+https://ymleelab.github.io/ToyUselessService
+<br/><br/>
+'No' snack with IntersectionObserver
+<br/>
+https://longdogechallenge.com
+<br/>
+https://theuselessweb.com
+<br/><br/>
+Snow flakes effect
+<br/>
+https://github.com/hcodes/snowflakes
